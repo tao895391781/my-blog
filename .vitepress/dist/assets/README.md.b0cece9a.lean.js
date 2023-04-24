@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,O as o}from"./chunks/framework.6d69c256.js";const u=JSON.parse('{"title":"tll的博客","description":"","frontmatter":{},"headers":[],"relativePath":"README.md"}'),r={name:"README.md"},s=o("",3),l=[s];function n(_,c,i,d,h,m){return e(),t("div",null,l)}const f=a(r,[["render",n]]);export{u as __pageData,f as default};
