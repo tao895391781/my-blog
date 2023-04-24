@@ -2,7 +2,7 @@
  * @Author: taoll 13361649932@163.com
  * @Date: 2023-04-24 15:50:17
  * @LastEditors: taoll 13361649932@163.com
- * @LastEditTime: 2023-04-24 17:58:48
+ * @LastEditTime: 2023-04-24 18:06:07
  * @FilePath: /my-blog/src/event-loop.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -16,7 +16,7 @@
 ## 浏览器有哪些进程和线程？
 浏览器是一个多进程多线程的应用程序
 浏览器内部工作极其复杂，为了避免相互影响，减少连环崩溃的几率，浏览器启动后，会自动启动多个进程。
-![event-loop01](./images/event-loo
+![event-loop02](./images/event-loop1.jpg)
 
 其中，最主要的进程有：
 1. 浏览器进程
